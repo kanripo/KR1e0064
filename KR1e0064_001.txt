@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋會通
-#+DATE: 2015-09-23 09:40:00
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:15:09.334748
+#+PROPERTY: ID KR1e0064
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一
 <pb:KR1e0064_WYG_001-1a>¶
 欽定四庫全書¶
 　春秋㑹通卷一　　　　　　元　李廉　撰¶
@@ -506,4 +508,3 @@
 　¶
 　¶
 　春秋㑹通卷一¶
-
